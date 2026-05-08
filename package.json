@@ -1,0 +1,14 @@
+{
+  "name": "cat-birthday-album",
+  "version": "0.1.0",
+  "private": true,
+  "description": "黑茶和茉莉的年度猫咪生日纪念册。",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "preview": "vite --host 127.0.0.1",
+    "check": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  }
+}

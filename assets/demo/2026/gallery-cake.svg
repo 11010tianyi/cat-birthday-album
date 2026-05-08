@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#dcefdc"/>
+  <g stroke="#202124" stroke-width="8">
+    <rect x="170" y="400" width="380" height="150" rx="18" fill="#fffdf8"/>
+    <rect x="220" y="300" width="280" height="120" rx="18" fill="#d75c78"/>
+    <rect x="292" y="214" width="136" height="92" rx="20" fill="#e7a63e"/>
+    <path d="M320 214v-60M400 214v-60" stroke-linecap="round"/>
+    <path d="M320 154c-32-44 34-44 0 0M400 154c32-44-34-44 0 0" fill="#fff8ef"/>
+  </g>
+  <text x="360" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="900" fill="#202124">cake</text>
+</svg>

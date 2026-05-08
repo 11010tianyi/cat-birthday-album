@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#f4f7ff"/>
+  <g stroke="#202124" stroke-width="8" stroke-linejoin="round">
+    <path d="M120 170c80 90 160 90 240 0s160-90 240 0" fill="none"/>
+    <path d="M260 344c-80-72-154-18-154 60 72 12 129-8 154-60z" fill="#237c72"/>
+    <path d="M460 344c80-72 154-18 154 60-72 12-129-8-154-60z" fill="#d75c78"/>
+    <circle cx="360" cy="354" r="72" fill="#e7a63e"/>
+    <path d="M332 420l-42 142 70-42 70 42-42-142" fill="#7d5b9c"/>
+  </g>
+  <text x="360" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="900" fill="#202124">ribbon</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="2026 生日视频 demo 封面">
+  <rect width="1280" height="720" fill="#202124"/>
+  <rect x="52" y="52" width="1176" height="616" rx="28" fill="#fff3df" stroke="#fff8ef" stroke-width="8"/>
+  <g transform="translate(422 182)" stroke="#202124" stroke-width="8">
+    <circle cx="160" cy="210" r="126" fill="#171514"/>
+    <circle cx="346" cy="210" r="132" fill="#fff8ef"/>
+    <path d="M72 138l34-96 72 82M248 138l-34-96-72 82" fill="#171514"/>
+    <path d="M250 130l40-100 76 86M446 130l-42-100-78 86" fill="#fff8ef"/>
+  </g>
+  <circle cx="640" cy="360" r="74" fill="#d75c78" stroke="#202124" stroke-width="8"/>
+  <path d="M618 320v80l70-40z" fill="#fff8ef" stroke="#202124" stroke-width="6" stroke-linejoin="round"/>
+  <text x="640" y="602" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="52" font-weight="900" fill="#202124">2026 demo video</text>
+</svg>

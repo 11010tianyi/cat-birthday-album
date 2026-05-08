@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="黑茶 demo 肖像">
+  <rect width="900" height="720" fill="#dcefdc"/>
+  <path d="M0 560h900" stroke="#202124" stroke-width="8"/>
+  <circle cx="170" cy="135" r="42" fill="#e7a63e" stroke="#202124" stroke-width="6"/>
+  <circle cx="742" cy="135" r="36" fill="#d75c78" stroke="#202124" stroke-width="6"/>
+  <g transform="translate(255 128)">
+    <ellipse cx="195" cy="310" rx="182" ry="210" fill="#171514" stroke="#202124" stroke-width="8"/>
+    <path d="M54 178 108 24l93 130M335 178 284 24l-96 130" fill="#171514" stroke="#202124" stroke-width="8" stroke-linejoin="round"/>
+    <circle cx="130" cy="274" r="18" fill="#e7a63e"/>
+    <circle cx="260" cy="274" r="18" fill="#e7a63e"/>
+    <path d="M184 335h24l-12 18z" fill="#d75c78"/>
+    <path d="M196 355c-24 29-58 30-86 7M196 355c24 29 58 30 86 7" fill="none" stroke="#fff8ef" stroke-width="7" stroke-linecap="round"/>
+    <rect x="118" y="470" width="158" height="62" rx="31" fill="#d75c78" stroke="#202124" stroke-width="7"/>
+  </g>
+  <text x="450" y="656" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="48" font-weight="900" fill="#202124">黑茶 · demo photo</text>
+</svg>

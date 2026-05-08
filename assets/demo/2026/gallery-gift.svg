@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#fff3df"/>
+  <g stroke="#202124" stroke-width="8">
+    <rect x="174" y="290" width="372" height="260" rx="18" fill="#237c72"/>
+    <rect x="330" y="290" width="60" height="260" fill="#e7a63e"/>
+    <rect x="148" y="238" width="424" height="70" rx="18" fill="#d75c78"/>
+    <path d="M360 238c-100-80-150-48-142 20 66 20 110 14 142-20z" fill="#fff8ef"/>
+    <path d="M360 238c100-80 150-48 142 20-66 20-110 14-142-20z" fill="#fff8ef"/>
+  </g>
+  <text x="360" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="900" fill="#202124">gift</text>
+</svg>

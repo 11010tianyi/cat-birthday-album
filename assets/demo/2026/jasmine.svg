@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="茉莉 demo 肖像">
+  <rect width="900" height="720" fill="#f4f7ff"/>
+  <path d="M0 560h900" stroke="#202124" stroke-width="8"/>
+  <circle cx="172" cy="142" r="40" fill="#237c72" stroke="#202124" stroke-width="6"/>
+  <circle cx="730" cy="130" r="38" fill="#7d5b9c" stroke="#202124" stroke-width="6"/>
+  <g transform="translate(235 96)">
+    <ellipse cx="215" cy="342" rx="202" ry="232" fill="#fff8ef" stroke="#202124" stroke-width="8"/>
+    <path d="M58 199 112 20l108 156M370 199 315 20l-111 156" fill="#fff8ef" stroke="#202124" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M128 56c-38 108-58 226-32 360M306 56c38 108 58 226 32 360" fill="none" stroke="#dfd2c0" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="145" cy="312" r="18" fill="#202124"/>
+    <circle cx="286" cy="312" r="18" fill="#202124"/>
+    <path d="M203 380h24l-12 18z" fill="#d75c78"/>
+    <path d="M215 400c-26 27-62 27-88 4M215 400c26 27 62 27 88 4" fill="none" stroke="#202124" stroke-width="7" stroke-linecap="round"/>
+    <rect x="132" y="522" width="170" height="66" rx="33" fill="#237c72" stroke="#202124" stroke-width="7"/>
+  </g>
+  <text x="450" y="656" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="48" font-weight="900" fill="#202124">茉莉 · demo photo</text>
+</svg>
