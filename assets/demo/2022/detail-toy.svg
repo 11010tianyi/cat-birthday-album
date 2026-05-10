@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#fbf7ed"/>
+  <g stroke="#171514" stroke-width="8" fill="none">
+    <path d="M108 172c122 86 218 85 318-4s154-88 204 4"/>
+    <circle cx="270" cy="395" r="112" fill="#d9b45f"/>
+    <path d="M214 395h112M270 339v112"/>
+    <path d="M448 358l80 80M528 358l-80 80"/>
+  </g>
+  <text x="360" y="620" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#171514">FAVORITE TOY</text>
+</svg>

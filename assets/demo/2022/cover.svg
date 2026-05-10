@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="2022 黑茶一岁档案封面">
+  <rect width="1200" height="900" fill="#efe7d3"/>
+  <path d="M90 90h1020v720H90z" fill="#fbf7ed" stroke="#171514" stroke-width="8"/>
+  <path d="M150 170h900M150 250h900M150 330h900M150 410h900M150 490h900M150 570h900M150 650h900" stroke="#d2c3a8" stroke-width="3"/>
+  <text x="155" y="155" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#171514">BLACK TEA / AGE 01</text>
+  <text x="158" y="730" font-family="PingFang SC, Arial, sans-serif" font-size="42" font-weight="900" fill="#171514">黑茶一岁成长档案</text>
+  <g transform="translate(420 255)">
+    <ellipse cx="180" cy="238" rx="150" ry="170" fill="#171514" stroke="#171514" stroke-width="7"/>
+    <path d="M62 124 102 14l76 92M298 124 255 14l-76 92" fill="#171514" stroke="#171514" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="126" cy="214" r="15" fill="#e6bc54"/>
+    <circle cx="235" cy="214" r="15" fill="#e6bc54"/>
+    <path d="M170 274h20l-10 14z" fill="#c94942"/>
+    <path d="M180 290c-22 24-52 24-74 4M180 290c22 24 52 24 74 4" fill="none" stroke="#fbf7ed" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g stroke="#171514" stroke-width="5" fill="none">
+    <path d="M172 786h856"/>
+    <path d="M222 766v40M302 766v40M382 766v40M462 766v40M542 766v40M622 766v40M702 766v40M782 766v40M862 766v40M942 766v40"/>
+  </g>
+</svg>

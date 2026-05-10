@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#f6efe7"/>
+  <path d="M130 460h460v110H130z" fill="#d65d5d" stroke="#171514" stroke-width="8"/>
+  <circle cx="276" cy="365" r="112" fill="#171514"/>
+  <circle cx="444" cy="365" r="116" fill="#fff8ef" stroke="#171514" stroke-width="7"/>
+  <text x="360" y="642" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#171514">SAME SEAT</text>
+</svg>

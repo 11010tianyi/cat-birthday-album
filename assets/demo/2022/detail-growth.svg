@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#efe7d3"/>
+  <path d="M115 110h490v500H115z" fill="#fbf7ed" stroke="#171514" stroke-width="7"/>
+  <path d="M170 180h380M170 250h380M170 320h380M170 390h380M170 460h380" stroke="#d2c3a8" stroke-width="5"/>
+  <circle cx="250" cy="525" r="72" fill="#171514"/>
+  <circle cx="470" cy="525" r="72" fill="#171514"/>
+  <text x="360" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#171514">GROWTH LOG</text>
+</svg>

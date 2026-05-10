@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#161820"/>
+  <path d="M110 100h680v700H110z" fill="#20232e" stroke="#f0d169" stroke-width="8"/>
+  <path d="M210 690h480" stroke="#f0d169" stroke-width="7"/>
+  <path d="M300 690 420 230h60l120 460z" fill="#f0d169" opacity=".5"/>
+  <ellipse cx="450" cy="524" rx="172" ry="176" fill="#171514"/>
+  <path d="M318 414 364 284l86 110M582 414 536 284l-86 110" fill="#171514"/>
+  <circle cx="396" cy="510" r="17" fill="#f0d169"/>
+  <circle cx="504" cy="510" r="17" fill="#f0d169"/>
+  <text x="450" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="62" font-weight="700" fill="#f0d169">AGE 03</text>
+</svg>

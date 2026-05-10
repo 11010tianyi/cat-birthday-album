@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#f9fbf8"/>
+  <path d="M164 226h392l-54 300H218z" fill="#e8b7a4" stroke="#1e2a2a" stroke-width="8"/>
+  <path d="M218 526c34 44 250 44 284 0" fill="#d7eef0" stroke="#1e2a2a" stroke-width="8"/>
+  <circle cx="300" cy="356" r="18" fill="#171514"/>
+  <circle cx="420" cy="356" r="18" fill="#171514"/>
+  <text x="360" y="635" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#1e2a2a">SNACK BREAK</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#171514"/>
+  <path d="M118 110h484v500H118z" fill="#fff8ef" stroke="#d65d5d" stroke-width="8"/>
+  <circle cx="280" cy="360" r="98" fill="#171514"/>
+  <circle cx="438" cy="360" r="104" fill="#fff8ef" stroke="#171514" stroke-width="7"/>
+  <path d="M190 560h340" stroke="#171514" stroke-width="8"/>
+  <text x="360" y="660" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#fff8ef">FIRST PHOTO</text>
+</svg>

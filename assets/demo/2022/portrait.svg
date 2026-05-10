@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#fbf7ed"/>
+  <path d="M80 80h740v740H80z" fill="none" stroke="#171514" stroke-width="8"/>
+  <path d="M132 178h636M132 722h636" stroke="#d2c3a8" stroke-width="5"/>
+  <g transform="translate(250 170)">
+    <ellipse cx="200" cy="320" rx="174" ry="205" fill="#171514"/>
+    <path d="M60 185 118 18l92 142M340 185 282 18l-92 142" fill="#171514"/>
+    <circle cx="138" cy="302" r="18" fill="#e6bc54"/>
+    <circle cx="262" cy="302" r="18" fill="#e6bc54"/>
+    <path d="M189 368h22l-11 16z" fill="#c94942"/>
+  </g>
+  <text x="450" y="790" text-anchor="middle" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#171514">ONE YEAR OLD</text>
+</svg>

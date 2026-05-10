@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="2025 黑茶茉莉第一次一起封面">
+  <rect width="1200" height="900" fill="#f6efe7"/>
+  <path d="M0 0h600v900H0z" fill="#171514"/>
+  <path d="M600 0h600v900H600z" fill="#fff8ef"/>
+  <path d="M600 0v900" stroke="#d65d5d" stroke-width="14"/>
+  <g transform="translate(250 244)">
+    <ellipse cx="160" cy="260" rx="140" ry="168" fill="#171514" stroke="#fff8ef" stroke-width="7"/>
+    <path d="M48 150 92 20l72 108M272 150 228 20l-72 108" fill="#171514" stroke="#fff8ef" stroke-width="7"/>
+    <circle cx="112" cy="250" r="15" fill="#f0c75e"/>
+    <circle cx="208" cy="250" r="15" fill="#f0c75e"/>
+  </g>
+  <g transform="translate(710 226)">
+    <ellipse cx="170" cy="278" rx="150" ry="184" fill="#fff8ef" stroke="#171514" stroke-width="7"/>
+    <path d="M50 155 98 22l78 110M292 155 242 22l-78 110" fill="#fff8ef" stroke="#171514" stroke-width="7"/>
+    <circle cx="118" cy="268" r="15" fill="#171514"/>
+    <circle cx="224" cy="268" r="15" fill="#171514"/>
+  </g>
+  <text x="90" y="115" font-family="PingFang SC, Arial, sans-serif" font-size="58" font-weight="900" fill="#fff8ef">黑茶</text>
+  <text x="1110" y="115" text-anchor="end" font-family="PingFang SC, Arial, sans-serif" font-size="58" font-weight="900" fill="#171514">茉莉</text>
+  <text x="600" y="815" text-anchor="middle" font-family="Georgia, serif" font-size="70" font-weight="700" fill="#d65d5d">FIRST DUET · 2025</text>
+</svg>

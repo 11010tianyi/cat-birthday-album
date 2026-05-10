@@ -9,12 +9,16 @@
 ├── index.html                  # GitHub Pages 首页，展示总封面和年份时间轴
 ├── years/
 │   ├── index.json              # 年份索引，首页从这里读取年份卡片
-│   └── 2026/
-│       └── index.html          # 2026 年主题页
+│   ├── 2022/                   # 黑茶一岁成长档案
+│   ├── 2023/                   # 黑茶窗边图志
+│   ├── 2024/                   # 黑茶午夜剧场
+│   ├── 2025/                   # 黑茶茉莉第一次一起
+│   └── 2026/                   # 黑茶茉莉生日会
+│       └── index.html
 ├── assets/
 │   ├── css/base.css            # 全站视觉系统
 │   ├── js/site.js              # 首页年份加载逻辑
-│   └── demo/2026/              # 2026 年 demo 图片和视频
+│   └── demo/<year>/            # 每年可替换 demo 图片和视频
 └── .github/workflows/pages.yml # GitHub Pages 自动部署
 ```
 
@@ -27,11 +31,19 @@
 
 ## 替换 2026 素材
 
-- 主题封面：`assets/demo/2026/cover-party.svg`
-- 黑茶肖像：`assets/demo/2026/black-tea.svg`
-- 茉莉肖像：`assets/demo/2026/jasmine.svg`
+- 主题封面：`assets/demo/2026/cover-party.jpg`
+- 黑茶肖像：`assets/demo/2026/black-tea.png`
+- 茉莉肖像：`assets/demo/2026/jasmine.png`
 - 视频文件：`assets/demo/2026/birthday-demo.mp4`
-- 视频封面：`assets/demo/2026/video-poster.svg`
+- 视频封面：`assets/demo/2026/video-poster.png`
+
+## 当前年度主题
+
+- `2022`：黑茶一岁成长档案，偏纸质档案和成长记录。
+- `2023`：黑茶窗边图志，偏杂志、窗光和日常观察。
+- `2024`：黑茶午夜剧场，偏电影海报、票根和聚光灯。
+- `2025`：黑茶茉莉第一次一起，偏黑白分屏和双主角同框。
+- `2026`：黑茶茉莉生日会，偏缎带、蛋糕和派对。
 
 保持同名文件替换时，不需要改 HTML。
 

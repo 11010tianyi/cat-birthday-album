@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="2024 黑茶午夜剧场封面">
+  <rect width="1200" height="900" fill="#161820"/>
+  <path d="M80 100h1040v700H80z" fill="#20232e" stroke="#f0d169" stroke-width="8"/>
+  <path d="M126 156h948v120H126z" fill="#161820" stroke="#f0d169" stroke-width="5"/>
+  <text x="600" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="74" font-weight="700" fill="#f0d169">MIDNIGHT HEICHA</text>
+  <path d="M190 352h820v330H190z" fill="#f7efe1" stroke="#f0d169" stroke-width="7"/>
+  <path d="M312 682 470 352h260l160 330z" fill="#f0d169" opacity=".55"/>
+  <g transform="translate(430 384)">
+    <ellipse cx="170" cy="188" rx="145" ry="158" fill="#171514"/>
+    <path d="M58 94 104 0l70 78M282 94 238 0l-70 78" fill="#171514"/>
+    <circle cx="120" cy="174" r="15" fill="#f0d169"/>
+    <circle cx="218" cy="174" r="15" fill="#f0d169"/>
+  </g>
+  <g fill="#f0d169">
+    <circle cx="150" cy="120" r="14"/><circle cx="210" cy="120" r="14"/><circle cx="270" cy="120" r="14"/>
+    <circle cx="930" cy="120" r="14"/><circle cx="990" cy="120" r="14"/><circle cx="1050" cy="120" r="14"/>
+  </g>
+</svg>

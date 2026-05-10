@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#161820"/>
+  <path d="M106 260c40 0 72-32 72-72h364c0 40 32 72 72 72v200c-40 0-72 32-72 72H178c0-40-32-72-72-72z" fill="#f7efe1" stroke="#f0d169" stroke-width="8"/>
+  <path d="M258 220v280M462 220v280" stroke="#20232e" stroke-width="6" stroke-dasharray="16 16"/>
+  <text x="360" y="382" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#20232e">VIP NAP</text>
+</svg>

@@ -3,22 +3,58 @@ import path from "node:path";
 import process from "node:process";
 
 const root = process.cwd();
+const yearlyAssets = {
+  2022: [
+    "cover.svg",
+    "portrait.svg",
+    "detail-growth.svg",
+    "detail-toy.svg",
+    "detail-nap.svg",
+  ],
+  2023: [
+    "cover.svg",
+    "portrait.svg",
+    "window-note.svg",
+    "snack-note.svg",
+    "sunbeam-note.svg",
+  ],
+  2024: [
+    "cover.svg",
+    "poster.svg",
+    "scene-lights.svg",
+    "scene-ticket.svg",
+    "scene-film.svg",
+  ],
+  2025: [
+    "cover.svg",
+    "duo.svg",
+    "first-seat.svg",
+    "two-bowls.svg",
+    "first-photo.svg",
+  ],
+  2026: [
+    "cover-party.jpg",
+    "black-tea.png",
+    "jasmine.png",
+    "gallery-together.jpeg",
+    "gallery-cake.jpeg",
+    "gallery-ribbon.png",
+    "gallery-gift.jpeg",
+    "video-poster.png",
+    "birthday-demo.mp4",
+  ],
+};
+
 const requiredFiles = [
   "index.html",
   "years/index.json",
-  "years/2026/index.html",
   "assets/css/base.css",
   "assets/js/site.js",
-  "assets/demo/2026/cover-party.jpg",
-  "assets/demo/2026/black-tea.png",
-  "assets/demo/2026/jasmine.png",
-  "assets/demo/2026/gallery-together.jpeg",
-  "assets/demo/2026/gallery-cake.jpeg",
-  "assets/demo/2026/gallery-ribbon.png",
-  "assets/demo/2026/gallery-gift.jpeg",
-  "assets/demo/2026/video-poster.png",
-  "assets/demo/2026/birthday-demo.mp4",
   ".github/workflows/pages.yml",
+  ...Object.entries(yearlyAssets).flatMap(([year, assets]) => [
+    `years/${year}/index.html`,
+    ...assets.map((asset) => `assets/demo/${year}/${asset}`),
+  ]),
 ];
 
 await Promise.all(requiredFiles.map((file) => access(path.join(root, file))));
@@ -30,11 +66,14 @@ if (!Array.isArray(years) || years.length === 0) {
 
 for (const year of years) {
   await access(path.join(root, year.href, "index.html"));
+  await access(path.join(root, year.cover));
 }
 
-const demoAssets = await readdir(path.join(root, "assets/demo/2026"));
-if (demoAssets.length < 6) {
-  throw new Error("2026 should include enough replaceable demo media.");
+for (const year of Object.keys(yearlyAssets)) {
+  const demoAssets = await readdir(path.join(root, `assets/demo/${year}`));
+  if (demoAssets.length < yearlyAssets[year].length) {
+    throw new Error(`${year} should include enough replaceable demo media.`);
+  }
 }
 
-console.log(`Checked ${requiredFiles.length} required files and ${years.length} year entry.`);
+console.log(`Checked ${requiredFiles.length} required files and ${years.length} year entries.`);

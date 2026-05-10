@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#b7d9e4"/>
+  <path d="M90 610 520 90h110L200 610z" fill="#f2c85b" opacity=".78"/>
+  <ellipse cx="366" cy="448" rx="190" ry="82" fill="#171514"/>
+  <circle cx="236" cy="402" r="54" fill="#171514"/>
+  <text x="360" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#1e2a2a">SUNBEAM</text>
+</svg>

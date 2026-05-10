@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#fff8ef"/>
+  <path d="M100 100h700v700H100z" fill="#f6efe7" stroke="#171514" stroke-width="8"/>
+  <path d="M450 100v700" stroke="#d65d5d" stroke-width="8"/>
+  <circle cx="330" cy="470" r="150" fill="#171514"/>
+  <circle cx="570" cy="470" r="156" fill="#fff8ef" stroke="#171514" stroke-width="7"/>
+  <circle cx="292" cy="450" r="15" fill="#f0c75e"/>
+  <circle cx="380" cy="450" r="15" fill="#f0c75e"/>
+  <circle cx="530" cy="450" r="15" fill="#171514"/>
+  <circle cx="616" cy="450" r="15" fill="#171514"/>
+  <text x="450" y="745" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="46" font-weight="900" fill="#171514">第一次一起</text>
+</svg>

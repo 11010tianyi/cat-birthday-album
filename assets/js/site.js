@@ -9,7 +9,7 @@ async function loadYears() {
     timeline.innerHTML = years
       .map(
         (item) => `
-          <a class="year-card" href="${item.href}" aria-label="打开 ${item.year} 年主题页">
+          <a class="year-card year-card-${item.year}" href="${item.href}" aria-label="打开 ${item.year} 年主题页">
             <img src="${item.cover}" alt="${item.title}">
             <div class="year-meta">
               <div class="year-number">${item.year}</div>

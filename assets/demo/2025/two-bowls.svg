@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#fff8ef"/>
+  <path d="M122 282h206l-36 154H158z" fill="#171514" stroke="#d65d5d" stroke-width="8"/>
+  <path d="M392 282h206l-36 154H428z" fill="#fff8ef" stroke="#171514" stroke-width="8"/>
+  <path d="M160 500h400" stroke="#171514" stroke-width="10"/>
+  <text x="360" y="620" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#171514">TWO BOWLS</text>
+</svg>

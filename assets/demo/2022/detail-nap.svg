@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#efe7d3"/>
+  <path d="M130 438c74-120 130-162 230-162s156 42 230 162" fill="#171514"/>
+  <path d="M170 438h380" stroke="#171514" stroke-width="70" stroke-linecap="round"/>
+  <path d="M165 520h390" stroke="#fbf7ed" stroke-width="8"/>
+  <circle cx="278" cy="370" r="13" fill="#e6bc54"/>
+  <circle cx="442" cy="370" r="13" fill="#e6bc54"/>
+  <text x="360" y="622" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#171514">NAP MAP</text>
+</svg>
